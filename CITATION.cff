@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: >-
+  Concussion Hub: an evidence-based clinical reference on
+  concussion and mild traumatic brain injury
+message: If you use this resource, please cite it as below.
+type: software
+authors:
+  # TODO: replace with your full name and, if you have one, your ORCID
+  - given-names: Marcus
+    family-names: ""
+    email: marcusfco@gmail.com
+repository-code: 'https://github.com/<your-username>/concussion-hub'
+url: 'https://<your-username>.github.io/concussion-hub/'
+abstract: >-
+  An interactive clinical reference covering the mechanism, assessment,
+  management, persisting symptoms and long-term risk of concussion and
+  mild traumatic brain injury. Built on the Amsterdam 2023 international
+  consensus statement and 90 peer-reviewed sources, with interactive
+  clinical calculators and separate clinician, athlete and patient views.
+keywords:
+  - concussion
+  - mild traumatic brain injury
+  - sport-related concussion
+  - return to sport
+  - vestibular rehabilitation
+  - clinical decision support
+license: CC-BY-NC-SA-4.0
+version: '1.0.0'
+date-released: '2026-08-14'
